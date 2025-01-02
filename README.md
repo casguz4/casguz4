@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Casimer A. Guzdziol IV</h1>
+  <p>Thank you for coming ot my profile! Please look through my public repos and also this organisation I run <a href="//github.com/wewantwebsites">We Want Web</a></p>
+  <a href="https://www.codewars.com/users/casguz4" target="_blank">
+    <img src="https://www.codewars.com/users/casguz4/badges/small" />
+  </a>
+   <a
+    href="https://www.linkedin.com/in/casimer-guzdziol-iv-785276100/"
+    target="_blank"
+  >
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"
+    />
+  </a>
+</div>
 
-<!--
-**casguz4/casguz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Abash"
+    ><img
+      alt="Bash"
+      src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Acsharp"
+    ><img
+      alt="C#"
+      src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Ahtml"
+    ><img
+      alt="HTML"
+      src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Acss"
+    ><img
+      alt="CSS"
+      src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Acss"
+    ><img
+      alt="TailwindCSS"
+      src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Ajavascript"
+    ><img
+      alt="JavaScript"
+      src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Ajavascript"
+    ><img
+      alt="Node.js"
+      src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3AtypeScript"
+    ><img
+      alt="TypeScript"
+      src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Atypescript"
+    ><img
+      alt="ReactJS"
+      src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=333"
+  /></a>
+   <a href="https://github.com/search?q=user%3Acasguz4+language%3Asvelte"
+    ><img
+      alt="Svelte"
+      src="https://img.shields.io/badge/Svelte-FF3E00"
+  /></a>
+   <a href="https://github.com/search?q=user%3Acasguz4+language%3Avue"
+    ><img
+      alt="Vue"
+      src="https://img.shields.io/badge/Vue-42d392"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Amarkdown"
+    ><img
+      alt="Markdown"
+      src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"
+  /></a>
+  <a href="https://github.com/search?q=user%3Acasguz4+language%3Ago"
+    ><img
+      alt="Go"
+      src="https://img.shields.io/badge/Golang-00ADD8.svg?logo=go&logoColor=white"
+  /></a>
+</div>
 
-Here are some ideas to get you started:
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- Activity Graph -->
+<div align="center">
+  <img
+    alt="casguz4's Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=casguz4&bg_color=1e1e2e&color=cdd6f4&line=94e2d5&point=cba6f7&hide_border=true"
+/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"
+    ><img
+      alt="casguz4's Github Stats"
+      src="https://github-readme-stats.vercel.app/api?username=casguz4&theme=catppuccin_mocha&show_icons=true&hide_border=true"
+      height="192px"
+  /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"
+    ><img
+      alt="casguz4's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=casguz4&theme=catppuccin_mocha&layout=compact&hide_border=true"
+      height="192px"
+  /></a>
+</p>
+
+<p>I used <a href="https://github.com/stephansama">stephansama's</a> profile as inspiration, check out his GitHub and also his blog!</p>
