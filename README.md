@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Casimer A. Guzdziol IV</h1>
   <p>Thank you for coming ot my profile! Please look through my public repos and also this organisation I run <a href="//github.com/wewantwebsites">We Want Web</a></p>
+  
+  <p>I used <a href="https://github.com/stephansama">stephansama's</a> profile as inspiration, check out his GitHub and also his blog!</p>
+  
+  ---
+  
   <a href="https://www.codewars.com/users/casguz4" target="_blank">
     <img src="https://www.codewars.com/users/casguz4/badges/small" />
   </a>
@@ -16,11 +21,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/search?q=user%3Acasguz4+language%3Abash"
-    ><img
-      alt="Bash"
-      src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"
-  /></a>
   <a href="https://github.com/search?q=user%3Acasguz4+language%3Acsharp"
     ><img
       alt="C#"
@@ -50,6 +50,11 @@
     ><img
       alt="Node.js"
       src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"
+  /></a>
+    <a href="https://github.com/search?q=user%3Acasguz4+language%3Amarkdown"
+    ><img
+      alt="Bun"
+      src="https://img.shields.io/badge/Bun-000000.svg?logo=Bun&logoColor=white"
   /></a>
   <a href="https://github.com/search?q=user%3Acasguz4+language%3AtypeScript"
     ><img
@@ -108,4 +113,3 @@
   /></a>
 </p>
 
-<p>I used <a href="https://github.com/stephansama">stephansama's</a> profile as inspiration, check out his GitHub and also his blog!</p>
