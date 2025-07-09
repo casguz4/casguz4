@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Casimer A. Guzdziol IV</h1>
-  <p>Thank you for coming ot my profile! Please look through my public repos and also this organisation I run <a href="//github.com/wewantwebsites">We Want Web</a></p>
+  <p>Thank you for coming ot my profile!</p>
   
   <p>I used <a href="https://github.com/stephansama">stephansama's</a> profile as inspiration, check out his GitHub and also his blog!</p>
   
