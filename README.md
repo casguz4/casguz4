@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Casimer A. Guzdziol IV</h1>
-  <p>Thank you for coming ot my profile!</p>
   
-  <p>I used <a href="https://github.com/stephansama">stephansama's</a> profile as inspiration, check out his GitHub and also his blog!</p>
+  <p>I ripped this markdown and used it as a template from <a href="https://github.com/stephansama">stephansama's</a></p>
   
   ---
   
